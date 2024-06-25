@@ -1,5 +1,5 @@
 test 1: Hello World
-test 2: There seems to be a problem. 
-test 3: Trying to see if this message has been updated after cloning
+test 2: This is a message. 
+test 3: Testing again.
 
-test 4: trying to see if the folder of cloned reposity will appear
+
